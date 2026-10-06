@@ -1,0 +1,20 @@
+{
+  "name": "careerforge",
+  "version": "1.4.0",
+  "description": "Plataforma de matching profissional e geração de currículos personalizados",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js",
+    "dev": "node --env-file=.env --watch src/index.js"
+  },
+  "keywords": [
+    "jobs",
+    "javascript",
+    "nodejs",
+    "career",
+    "job-matching",
+    "resume"
+  ],
+  "author": "André",
+  "license": "MIT"
+}
